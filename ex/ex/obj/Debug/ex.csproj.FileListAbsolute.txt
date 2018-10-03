@@ -1,0 +1,6 @@
+C:\Users\etec\Desktop\ex\ex\bin\Debug\ex.exe.config
+C:\Users\etec\Desktop\ex\ex\bin\Debug\ex.exe
+C:\Users\etec\Desktop\ex\ex\bin\Debug\ex.pdb
+C:\Users\etec\Desktop\ex\ex\obj\Debug\ex.csprojResolveAssemblyReference.cache
+C:\Users\etec\Desktop\ex\ex\obj\Debug\ex.exe
+C:\Users\etec\Desktop\ex\ex\obj\Debug\ex.pdb
